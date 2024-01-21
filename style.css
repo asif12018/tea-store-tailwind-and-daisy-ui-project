@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+
+ *{
+    font-family: "Manrope", sans-serif;
+  }
+
+  .card1{
+    background: var(--Linear, linear-gradient(270deg, #F00 0%, #FF8938 100%));
+  }
+  .card2{
+    border-radius: 10px;
+background: rgba(230, 166, 35, 0.10);
+  }
